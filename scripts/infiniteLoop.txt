@@ -1,5 +1,6 @@
-depth 1
+0 1
 while
     debug
-    dup 1 notEqual
+    1 add
+    1
 endWhile
